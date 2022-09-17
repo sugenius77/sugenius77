@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
-<h3 align="center"> 🍀 About ME 🍀 </h3>
+<h3 align="center"> 🌷 About ME 🌷 </h3>
 <p align="center">
 <a href="https://velog.io/@sugenius77"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://sujin0812.notion.site/Hello-my-world-a61ab6a835ee42528ec38d867d7e43f3"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
