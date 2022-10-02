@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</p>
+</p> 
 
 <h3 align="center"> 🌷 About ME 🌷 </h3>
 <p align="center">
